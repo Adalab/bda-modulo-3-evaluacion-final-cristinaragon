@@ -59,8 +59,11 @@ Realizar un análisis exploratorio de datos completo sobre reservas de vuelos y 
 ---
 
 ### Merge de datasets
-python
+```python
 pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
+
+```
+---
 ## 🛠️ Tecnologías
 - **Python 3.9+**
 - **pandas**
@@ -70,7 +73,6 @@ pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
 - **Jupyter Notebook**
 
 ---
-## 📁 Estructura del proyecto
 
 ## 📁 Estructura del proyecto
 
@@ -94,6 +96,7 @@ bda-modulo-3-evaluacion-final-cristinaragon/
 │   ├── pregunta5_tarjetas.png
 │   └── pregunta6_civil_genero.png
 └── README.md
+```
 ---
 ## 🔄 Metodología
 - **Exploración y limpieza de datos**
