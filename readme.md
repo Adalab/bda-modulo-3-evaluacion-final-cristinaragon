@@ -74,7 +74,7 @@ pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
 
 ## 📁 Estructura del proyecto
 
-```text
+```
 bda-modulo-3-evaluacion-final-cristinaragon/
 ├── data/
 │   ├── Customer Flight Activity.csv
