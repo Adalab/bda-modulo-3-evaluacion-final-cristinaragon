@@ -14,8 +14,6 @@ Se realiza limpieza de datos (nulos en `Salary` y `College`), análisis estadís
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Metodología](#metodología)
 - [Instrucciones de uso](#instrucciones-de-uso)
-- [Resultados](#resultados)
-- [Retos y mejoras](#retos-y-mejoras)
 - [Autora](#autora)
 
 ---
@@ -96,6 +94,7 @@ bda-modulo-3-evaluacion-final-cristinaragon/
 │   ├── pregunta5_tarjetas.png
 │   └── pregunta6_civil_genero.png
 └── README.md
+```
 ---
 ## 🔄 Metodología
 - **Exploración y limpieza de datos**
@@ -111,6 +110,15 @@ bda-modulo-3-evaluacion-final-cristinaragon/
 Se analizó el impacto del nivel de estudios en el comportamiento de reserva
 
 ---
+## 🚀 Instrucciones de uso
+- **Clonar el repositorio:**
+
+Bash
+
+git clone https://github.com/tu-usuario/bda-modulo-3-evaluacion-final-cristinaragon.git
+- **Instalar dependencias:** Asegúrate de tener instaladas las librerías mencionadas en la sección de Tecnologías.
+
+- **Ejecutar el análisis:** Abre el archivo Análisis_Loyalty.ipynb en la carpeta notebooks/ y ejecuta todas las celdas.
 
 ## 👩‍💻 Autora
 **Cristina Aragón**  
