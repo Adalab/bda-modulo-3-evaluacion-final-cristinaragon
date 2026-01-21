@@ -69,7 +69,7 @@ pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
 - **seaborn**
 - **Jupyter Notebook**
 
-
+''
 ## 📁 Estructura del proyecto
 bda-modulo-3-evaluacion-final-cristinaragon/
 ├── data/
