@@ -61,31 +61,51 @@ Realizar un análisis exploratorio de datos completo sobre reservas de vuelos y 
 ### Merge de datasets
 ```python
 pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
-🛠️ Tecnologías
-Python 3.9+
+## 🛠️ Tecnologías
+- **Python 3.9+**
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **seaborn**
+- **Jupyter Notebook**
 
-pandas
+---
 
-numpy
-
-matplotlib
-
-seaborn
-
-Jupyter Notebook
-
-📁 Estructura del proyecto
-plaintext
-Copiar código
+## 📁 Estructura del proyecto
 bda-modulo-3-evaluacion-final-cristinaragon/
 ├── data/
 │   ├── raw/
+│   │   ├── Customer Flight Activity.csv
+│   │   └── Customer Loyalty History.csv
 │   └── processed/
 ├── notebooks/
+│   ├── 01_limpieza.ipynb
+│   ├── 02_eda.ipynb
+│   └── 03_visualizaciones.ipynb
 ├── graficos/
+│   ├── boxplots/
+│   ├── histogramas/
+│   └── correlaciones/
 ├── requirements.txt
 └── README.md
-👩‍💻 Autora
-Cristina Aragón
-Estudiante Bootcamp Data Analysis – Adalab
+---
+
+## 🔄 Metodología
+- **Limpieza de datos**
+  - Imputación de valores nulos en `Salary` mediante `groupby` por provincia y nivel educativo
+- **EDA**
+  - Análisis de distribuciones
+  - Detección de outliers mediante el método IQR
+- **Visualización**
+  - Gráficos comparativos para analizar el comportamiento de los clientes
+
+---
+
+## 👩‍💻 Autora
+**Cristina Aragón**  
+Estudiante del Bootcamp de Data Analysis – Adalab  
+
+📧 cristinaragon77@gmail.com  
 📅 Enero 2026
+
+
