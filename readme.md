@@ -96,7 +96,6 @@ bda-modulo-3-evaluacion-final-cristinaragon/
 │   ├── pregunta5_tarjetas.png
 │   └── pregunta6_civil_genero.png
 └── README.md
-```
 ---
 ## 🔄 Metodología
 - **Exploración y limpieza de datos**
