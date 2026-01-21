@@ -72,6 +72,8 @@ pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
 ---
 ## 📁 Estructura del proyecto
 
+## 📁 Estructura del proyecto
+
 ```text
 bda-modulo-3-evaluacion-final-cristinaragon/
 ├── data/
@@ -92,7 +94,7 @@ bda-modulo-3-evaluacion-final-cristinaragon/
 │   ├── pregunta5_tarjetas.png
 │   └── pregunta6_civil_genero.png
 └── README.md
-
+---
 ## 🔄 Metodología
 - **Exploración y limpieza de datos**
   - Imputación de valores nulos en `Salary` mediante `groupby` por nivel educativo
