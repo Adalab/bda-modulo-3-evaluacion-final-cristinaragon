@@ -71,26 +71,27 @@ pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
 
 ---
 ## 📁 Estructura del proyecto
+
+```text
 bda-modulo-3-evaluacion-final-cristinaragon/
 ├── data/
-│   │   ├── Customer Flight Activity.csv
-│   │   └── Customer Loyalty History.csv
-        └──customer_flight_activity_clean.csv
-        └──customer_loyalty_history_clean.csv
-        └──df_merged_clean.csv
-        └──frecuencias_categoricas.csv
-        └──outliers_todas_columnas.csv
+│   ├── Customer Flight Activity.csv
+│   ├── Customer Loyalty History.csv
+│   ├── customer_flight_activity_clean.csv
+│   ├── customer_loyalty_history_clean.csv
+│   ├── df_merged_clean.csv
+│   ├── frecuencias_categoricas.csv
+│   └── outliers_todas_columnas.csv
 ├── notebooks/
-│   ├── Análisis_Loyalty.ipynb
+│   └── Análisis_Loyalty.ipynb
 ├── graficos/
 │   ├── pregunta1_vuelos_mes.png
 │   ├── pregunta2_simple.png
 │   ├── pregunta3_provincia.png
 │   ├── pregunta4_salario_visual.png
 │   ├── pregunta5_tarjetas.png
-│   ├── pregunta6_civil_genero.png
+│   └── pregunta6_civil_genero.png
 └── README.md
----
 
 ## 🔄 Metodología
 - **Exploración y limpieza de datos**
