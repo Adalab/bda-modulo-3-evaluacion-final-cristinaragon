@@ -71,7 +71,6 @@ pd.merge(df_flights, df_loyalty, on='loyalty_number', how='inner')
 
 ---
 ## 📁 Estructura del proyecto
-'''plaintext
 bda-modulo-3-evaluacion-final-cristinaragon/
 ├── data/
 │   ├── raw/
@@ -86,7 +85,6 @@ bda-modulo-3-evaluacion-final-cristinaragon/
 │   └── correlaciones/
 ├── requirements.txt
 └── README.md
-'''
 ---
 
 ## 🔄 Metodología
