@@ -118,7 +118,7 @@ Bash
 git clone https://github.com/tu-usuario/bda-modulo-3-evaluacion-final-cristinaragon.git
 - **Instalar dependencias:** Asegúrate de tener instaladas las librerías mencionadas en la sección de Tecnologías.
 
-- **Ejecutar el análisis:** Abre el archivo Análisis_Loyalty.ipynb en la carpeta notebooks/ y ejecuta todas las celdas.
+- **Ejecutar el análisis:** Abre el archivo Análisis_Loyalty.ipynb y ejecuta todas las celdas.
 
 ## 👩‍💻 Autora
 **Cristina Aragón**  
